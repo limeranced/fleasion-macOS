@@ -132,7 +132,6 @@ pls give credit to the original Fleasion creators for the idea and architecture.
 * macOS compatibility and repackaging by [@ver6al](https://discord.com/users/1121335931656478740) (GitHub: [limeranced](https://github.com/limeranced))
 * Original project by Tyler @8ar and contributors — credits and license remain theirs
 - Original project: [Fleasion](https://github.com/CroppingFlea479/Fleasion)
--                   [Fleasion](https://github.com/fleasion/Fleasion)
 
 ---
 
