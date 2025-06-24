@@ -111,7 +111,7 @@ It confirms the game is loading patched assets like `cached_files/...` into memo
 
 ## ❗ Disclaimer
 
-I made this mainly for myself but im nice so why not let others. If this breaks or anything dont blame the fleasion team as i am just a random person who decided ot make this. 
+I made this mainly for myself but why not let others. If this breaks or anything dont blame the fleasion team as i am just a random person who decided ot make this. 
 
 pls give credit to the original Fleasion creators for the idea and architecture.
 

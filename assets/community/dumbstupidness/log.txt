@@ -1,0 +1,3 @@
+modraws/dumbstupidness_assetsdumps
+1
+https://raw.githubusercontent.com/modraws/dumbstupidness/refs/heads/main/log.txt

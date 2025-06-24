@@ -1,0 +1,3 @@
+qrhrqiohj/AR2-dump
+1
+https://raw.githubusercontent.com/qrhrqiohj/AR2/refs/heads/main/log.txt
